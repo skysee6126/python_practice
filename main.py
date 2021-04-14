@@ -41,5 +41,3 @@ print("I'm a {age}years old and I love{fruit}".format(age =20, fruit="Apple"))
 age = 20
 fruit = "Apple"
 print(f"I'm a {age}years old and I love{fruit}")
-
-
